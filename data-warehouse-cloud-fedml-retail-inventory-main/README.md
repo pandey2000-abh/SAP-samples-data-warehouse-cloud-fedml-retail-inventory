@@ -28,18 +28,7 @@ FedML python libraries for hyperscalers helps create an end to end automated sol
 * [Sign up for SAP Data Warehouse cloud trial](https://www.sap.com/products/data-warehouse-cloud/trial.html)
 * [Run the Retail_Project.ipynb](https://github.com/SAP-samples/data-warehouse-cloud-fedml-retail-inventory/blob/main/Retail_project.ipynb)
 
-## Limitations
-This example contains no known limitations.
 
-## Known Issues
-This example contains no known issues.
-
-## How to obtain support
-This project is provided "as-is" with no expectation for major changes or support.
-
-[Create an issue](https://github.com/SAP-samples//issues) in this repository if you find a bug or have questions about the content.
-
-For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
 
 ## License
 Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
